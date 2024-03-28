@@ -1,4 +1,4 @@
-# UE5_Uni_Biped_Crl_Rig
+# UE5 Universal Biped Ctrl Rig
  
 A Control Rig designed for Bipeds of any skeleton. Use Control Rig with your existing characters without starting from scratch!
 
@@ -15,16 +15,16 @@ Explore animating in sequencer with Control Rig with a flexible setup that shoul
 
 --
 
-Features: (Please include a full, comprehensive list of the features of the product)
+Features:
 
-    Bone Lists set to variables, should be independent of naming Conventions.
-    Functional with custom skeletons
-    2-5 spine bones
-    1+ neck bones
-    Any orientation (Blender Y-oriented bones included!)
-    Any amount of fingers, using metacarpal bones or not
-    Support for a dedicated hip bone
-    Support for blend shape animation
-    Fully Backwards Solve compatible
-    Procedural controls for Blend shapes, secondary bones, facial bones, etc
-    Visibility groups for Procedurally spawned controls
+- Bone Lists set to variables, should be independent of naming Conventions.
+- Functional with custom skeletons
+- 2-5 spine bones
+- 1+ neck bones
+- Any orientation (Blender Y-oriented bones included!)
+- Any amount of fingers, using metacarpal bones or not
+- Support for a dedicated hip bone
+- Support for blend shape animation
+- Fully Backwards Solve compatible
+- Procedural controls for Blend shapes, secondary bones, facial bones, etc
+- Visibility groups for Procedurally spawned controls
