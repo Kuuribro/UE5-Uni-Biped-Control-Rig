@@ -5,28 +5,32 @@ A Control Rig designed for Bipeds of any skeleton. Use Control Rig with your exi
 This one is NOT limited to the Epic Skeleton! Works for simple characters with shorter spines, different bone hierarchies, and more!
 
 Compatible with 5.3, 5,4
-----
+
++++++
+
 どんなスケルトンの二足歩行生物にも適したコントロールリグ。ゼロから始めることなく、既存のキャラクターにコントロールリグを使用できます！
 
 これは、エピックスケルトンに限定されていません！脊椎の短いシンプルなキャラクターや、異なるボーン階層、その他の機能にも対応しています！
 
 5.3、5.4と互換性があります。
 
-===
+-----
 
 Contains an Unreal Mannequin to show functionality with the Epic Skeleton, and an example character with extra features such as Y-oriented bones, Texture-offset material eyes, blend shapes and procedural secondary bones. Fully functional with Backwards Solve as well!
 
 Blueprint contains instructions on setup.
 
 Explore animating in sequencer with Control Rig with a flexible setup that should accommodate characters from all across the internet or in your existing projects.
-----
+
++++++
+
 Unreal Mannequinが含まれており、エピックスケルトンとの機能性を示し、Y方向のボーン、テクスチャオフセット素材の目、ブレンドシェイプ、手順で生成されたセカンダリボーンなど、追加機能を備えた例のキャラクターが含まれています。バックワードソルブにも完全に対応！
 
 Blueprintにはセットアップの手順が含まれています。
 
 Control Rigを使用してSequencerでアニメーションを探索し、インターネット上または既存のプロジェクトでキャラクターを柔軟に設定できるフレキシブルなセットアップでアニメーションを作成してください。
 
---
+-----
 
 Features:
 
