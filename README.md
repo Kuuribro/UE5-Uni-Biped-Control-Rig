@@ -2,7 +2,7 @@
  
 A Control Rig designed for Bipeds of any skeleton. Use Control Rig with your existing characters without starting from scratch!
 
-This one is NOT limited to the Epic Skeleton! Works for simple characters with shorter spines, different bone hierarchies, and more!
+Includes custom skeletons or characters that do not use Epic Skeleton! Works for simple characters with shorter spines, different bone hierarchies, and more!
 
 Compatible with 5.3, 5,4
 
