@@ -64,5 +64,9 @@ Features:
 ![Screenshot02](https://github.com/Kuuribro/UE5-Uni-Biped-Control-Rig/assets/63763953/87701c05-6edc-4f62-b55c-304ac7d2d0be)
 ![Screenshot01](https://github.com/Kuuribro/UE5-Uni-Biped-Control-Rig/assets/63763953/c1da4f05-bb92-4cfa-a7ff-2139d65bf3a4)
 ![Screenshot03](https://github.com/Kuuribro/UE5-Uni-Biped-Control-Rig/assets/63763953/ecd80be9-96a6-4a8a-a93b-feee70a9bad3)
+![Fingers_ResizedDown](https://github.com/Kuuribro/UE5-Uni-Biped-Control-Rig/assets/63763953/08e1ffad-c083-49c3-971f-e05fe1a0d872)
 ![Screenshot04](https://github.com/Kuuribro/UE5-Uni-Biped-Control-Rig/assets/63763953/7f799b97-687f-41da-9067-705629237e90)
+![Hair_ResizedDown](https://github.com/Kuuribro/UE5-Uni-Biped-Control-Rig/assets/63763953/1013b151-9b12-4034-a82e-a3fa560a5687)
 ![Screenshot05](https://github.com/Kuuribro/UE5-Uni-Biped-Control-Rig/assets/63763953/bd276b79-0526-4bac-b1fe-1336a7c54301)
+
+
