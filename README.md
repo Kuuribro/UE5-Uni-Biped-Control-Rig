@@ -1,8 +1,12 @@
 # UE5 Universal Biped Ctrl Rig
  
 A Control Rig designed for Bipeds of any skeleton. Use Control Rig with your existing characters without starting from scratch!
+
 This custom skeletons or characters that do not use Epic Skeleton! Works for simple characters with shorter spines, different bone hierarchies, and more!
+
 Compatible with 5.3, 5,4
+
+Setup Tutorial: https://www.youtube.com/watch?v=bK93pMGEgvk
 
 +++++
 
