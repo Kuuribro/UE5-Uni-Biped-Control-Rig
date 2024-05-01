@@ -6,7 +6,7 @@ This custom skeletons or characters that do not use Epic Skeleton! Works for sim
 
 Compatible with 5.3, 5,4
 
-Setup Tutorial: https://www.youtube.com/watch?v=bK93pMGEgvk
+Setup Tutorial available at the bottom of this page.
 
 +++++
 
@@ -15,6 +15,8 @@ Setup Tutorial: https://www.youtube.com/watch?v=bK93pMGEgvk
 これは、エピックスケルトンに限定されていません！脊椎の短いシンプルなキャラクターや、異なるボーン階層、その他の機能にも対応しています！
 
 5.3、5.4と互換性があります。
+
+このページの下にセットアップチュートリアルがあります。(日本語字幕は近日公開予定）
 
 -----
 
@@ -72,3 +74,7 @@ Single Controls for things like Facial Bones too!
 
 ![Screenshot05](https://github.com/Kuuribro/UE5-Uni-Biped-Control-Rig/assets/63763953/bd276b79-0526-4bac-b1fe-1336a7c54301)
 ![Screenshot01](https://github.com/Kuuribro/UE5-Uni-Biped-Control-Rig/assets/63763953/c1da4f05-bb92-4cfa-a7ff-2139d65bf3a4)
+
+
+Setup Tutorial: 
+[![SetupThumb](https://github.com/Kuuribro/UE5-Uni-Biped-Control-Rig/assets/63763953/da9526f4-3864-44d4-9a40-9b9792a6f857)](https://www.youtube.com/watch?v=bK93pMGEgvk)
